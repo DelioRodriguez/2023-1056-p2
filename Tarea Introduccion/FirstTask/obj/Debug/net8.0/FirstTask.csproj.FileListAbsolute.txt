@@ -1,0 +1,4 @@
+C:\Users\delio\OneDrive\Documents\Tareas del ITLA\Cuatrimestre 4\Programacion ll\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delio\OneDrive\Documents\Tareas del ITLA\Cuatrimestre 4\Programacion ll\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\delio\OneDrive\Documents\Tareas del ITLA\Cuatrimestre 4\Programacion ll\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfo.cs
+C:\Users\delio\OneDrive\Documents\Tareas del ITLA\Cuatrimestre 4\Programacion ll\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.csproj.CoreCompileInputs.cache
